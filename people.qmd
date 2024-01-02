@@ -36,7 +36,7 @@ Office Hours: <br> {{< var instructor.office-hours >}}
 [{{< var ta.email >}}](mailto: {{< var ta.email >}})
 
 <img src="img/ta.jpeg" class="rounded-circle center mx-auto d-block"
-     alt="A headshot of a woman with curly, short, ear-length hair with green eyes and red lipstick."
+     alt="A headshot of a man wearing a navy blue jacket"
      style="float: left; margin-right: 10px; width: 100%; padding-bottom:20px;" />
      
 
