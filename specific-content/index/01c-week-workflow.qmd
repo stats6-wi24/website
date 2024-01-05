@@ -13,8 +13,8 @@
     		<li> <b>Monday 12:25 pm</b> | Previous week's homework due </li>
     		<li> <b>Monday 12:30 - 1: 50 pm</b> | Lecture </li>
     		<li> <b>Wednesday 12:30 - 1: 50 pm</b> | Lecture </li>
-    		<li> <b>Thursday XX pm</b> | Rasul's office hours </li>
-    		<li> <b>Friday XX pm</b> | Rasul's office hours </li>
+    		<li> <b>Thursday 2:00 - 3:00 pm pm</b> | Rasul's office hours </li>
+    		<li> <b>Friday 1:30 - 2:30 pm</b> | Rasul's office hours </li>
     		
     	</ul>
     </div>
