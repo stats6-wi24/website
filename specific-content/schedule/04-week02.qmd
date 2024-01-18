@@ -24,7 +24,7 @@
     <td><input type="checkbox" /></td>
     <td>Data Representations: Part I &nbsp; &nbsp; </td>
     <td>Data Visualization</td>
-    <td><a href="https://stats6-fa23.github.io/slides/week02/2a-data-rep1.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+    <td><a href="https://stats6-wi24.github.io/slides/week02/2a-data-rep1.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a>
       </td>
     <td></td>
