@@ -1,1 +1,75 @@
-TBA
+{{< fa calendar >}} Jan 29 - Feb 4
+
+
+<table class="table-striped text-left table-bordered" align = "center">
+
+  <thead>
+    <th style="width:  3%"></th>
+    <th style="width:  30%"></th>
+    <th style="width:  40%">Notes</th>
+    <th style="width:  8%">Links</th>
+    <th style="width:  15%">Due</th>
+  </thead>
+
+
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td>Data Wrangling: Part II &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://stats6-wi24.github.io/slides/week04/4a-data-wrangling2.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a>
+      </td>
+    <td>Aggregating Data and Data Joins</td>
+  </tr>
+  
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Reading </td>
+    <td>Chapter 13</td>
+    <td><a href="https://r4ds.had.co.nz/relational-data.html" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to the Book" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+
+
+  
+ 
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td>Good Workflow Practices for Reproducible Data Science &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://stats6-wi24.github.io/slides/week04/4b-reproducible-workflow.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a>
+      </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Reading on Reproducibility </td>
+    <td>by Roger Peng</td>
+    <td><a href="https://academic.oup.com/jrssig/article/12/3/30/7029086" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to the Book" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> No homework &nbsp; &nbsp; </td>
+    <td>Please focus on project proposals</td>
+    <td></td>
+    <td>Feb 21, 2024 at 11:59 pm</td>
+  </tr>
+  
+   <tr>
+    <td><input type="checkbox" /></td>
+    <td> Project Proposal &nbsp; &nbsp; </td>
+    <td>In Week 4 repo</td>
+    <td><a href="https://github.com/stats6-wi24" target ="_blank"> <i class="fa-brands fa-github" aria-hidden="true"
+            title="External Link to GitHub" target = "_blank"></i></a></td>
+    <td>Feb 21, 2024 at 11:59 pm</td>
+  </tr>
+        
+</table>
