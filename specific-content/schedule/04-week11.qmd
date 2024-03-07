@@ -1,1 +1,34 @@
-TBA
+{{< fa calendar >}} Mar 18 - March 24
+
+
+<table class="table-striped text-left table-bordered" align = "center">
+
+  <thead>
+    <th style="width:  3%"></th>
+    <th style="width:  30%"></th>
+    <th style="width:  40%">Notes</th>
+    <th style="width:  8%">Links</th>
+    <th style="width:  15%">Due</th>
+  </thead>
+
+
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td>Project submission</td>
+    <td>Instructions in Week 9 repo</td>
+    <td></td>
+    <td>Mar 18th at 1:00 pm</td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Peer evaluation of projects  </td>
+    <td>on Canvas</td>
+    <td></td>
+    <td>Mar 18th at 1:30 - 3:30 pm</td>
+  </tr>
+  
+
+
+        
+</table>
